@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/digitech-assignment/static/css/main.f02c7879.chunk.css",
+    "main.js": "/digitech-assignment/static/js/main.e002c3f1.chunk.js",
+    "main.js.map": "/digitech-assignment/static/js/main.e002c3f1.chunk.js.map",
+    "runtime-main.js": "/digitech-assignment/static/js/runtime-main.f423c30b.js",
+    "runtime-main.js.map": "/digitech-assignment/static/js/runtime-main.f423c30b.js.map",
+    "static/css/2.4be38407.chunk.css": "/digitech-assignment/static/css/2.4be38407.chunk.css",
+    "static/js/2.c072936f.chunk.js": "/digitech-assignment/static/js/2.c072936f.chunk.js",
+    "static/js/2.c072936f.chunk.js.map": "/digitech-assignment/static/js/2.c072936f.chunk.js.map",
+    "static/js/3.b124e3a5.chunk.js": "/digitech-assignment/static/js/3.b124e3a5.chunk.js",
+    "static/js/3.b124e3a5.chunk.js.map": "/digitech-assignment/static/js/3.b124e3a5.chunk.js.map",
+    "index.html": "/digitech-assignment/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/digitech-assignment/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.f02c7879.chunk.css.map": "/digitech-assignment/static/css/main.f02c7879.chunk.css.map",
+    "static/js/2.c072936f.chunk.js.LICENSE.txt": "/digitech-assignment/static/js/2.c072936f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f423c30b.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.c072936f.chunk.js",
+    "static/css/main.f02c7879.chunk.css",
+    "static/js/main.e002c3f1.chunk.js"
+  ]
+}
